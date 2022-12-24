@@ -4,11 +4,7 @@ export const products = [
     name: 'Create an Android/IOS mobile app in Flutter ',
     price: 200.99,
     discount: 30,
-    quantityAvailable: 2,
-    category: 'T-shirt',
     currentPrice: 140.99,
-    sizes: ['xl', 'l'], 
-    colors: ['#000', '6F3E18', '#D4BE8D', '#FFF'],
     images: [
       '/images/2112.jpg',
     ],
@@ -63,12 +59,8 @@ export const products = [
     id: '2',
     name: 'development of a mobile application (hybrid) with flutter',
     price: 119.99,
-    quantityAvailable: 2,
-    category: 'T-shirt',
-    currentPrice: 150.99,
-    sizes: ['xl', 'l'], 
-    colors: ['#000', '6F3E18', '#D4BE8D', '#FFF'],
-    images: [
+   currentPrice: 150.99,
+   images: [
       '/images/1212.jpg',
     ],
     punctuation: {
@@ -122,11 +114,7 @@ export const products = [
     id: '3',
     name: 'development of customs sections and pages in a Shopify theme',
     price: 119.99,
-    quantityAvailable: 2,
-    category: 'T-shirt',
-    currentPrice: 90.99,
-    sizes: ['xl', 'l'], 
-    colors: ['#000', '6F3E18', '#D4BE8D', '#FFF'],
+   currentPrice: 90.99,
     images: [
       '/images/1222.png',
     ],
@@ -181,11 +169,7 @@ export const products = [
     id: '4',
     name: 'create a multi products Shopify store',
     price: 119.99,
-    quantityAvailable: 2,
-    category: 'T-shirt',
-    currentPrice: 220.99,
-    sizes: ['xl', 'l'], 
-    colors: ['#000', '6F3E18', '#D4BE8D', '#FFF'],
+   currentPrice: 220.99,
     images: [
       '/images/121221.png',
     ],
@@ -240,12 +224,8 @@ export const products = [
     id: '5',
     name: 'Analyze data in Excel, google Sheets or Access',
     price: 119.99,
-    quantityAvailable: 2,
-    category: 'T-shirt',
-    currentPrice: 310.99,
-    sizes: ['xl', 'l'], 
-    colors: ['#000', '6F3E18', '#D4BE8D', '#FFF'],
-    images: [
+     currentPrice: 310.99,
+     images: [
       '/images/4344.jpg',
     ],
     punctuation: {
@@ -299,12 +279,8 @@ export const products = [
     id: '6',
     name: 'Create an Android & IOS ecommerce mobile application',
     price: 139.99,
-    quantityAvailable: 2, 
-    category: 'T-shirt',
     currentPrice: 330.99,
-    sizes: ['xl', 'l'], 
-    colors: ['#000', '6F3E18', '#D4BE8D', '#FFF'],
-    images: [
+     images: [
       '/images/222.jpg',
     ],
     punctuation: {
